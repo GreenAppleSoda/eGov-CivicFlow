@@ -23,3 +23,6 @@ application-local.yml
 logs/
 .DS_Store
 Thumbs.db
+
+# memo
+README에 남길 정보.txt
